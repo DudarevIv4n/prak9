@@ -1,0 +1,44 @@
+D:\NOTGames\Работы\c#\vano\pr 9 dudarev 01.01\pr 9 dudarev 01.01\bin\Debug\net5.0-windows\pr 9 dudarev 01.01.exe
+D:\NOTGames\Работы\c#\vano\pr 9 dudarev 01.01\pr 9 dudarev 01.01\bin\Debug\net5.0-windows\pr 9 dudarev 01.01.deps.json
+D:\NOTGames\Работы\c#\vano\pr 9 dudarev 01.01\pr 9 dudarev 01.01\bin\Debug\net5.0-windows\pr 9 dudarev 01.01.runtimeconfig.json
+D:\NOTGames\Работы\c#\vano\pr 9 dudarev 01.01\pr 9 dudarev 01.01\bin\Debug\net5.0-windows\pr 9 dudarev 01.01.runtimeconfig.dev.json
+D:\NOTGames\Работы\c#\vano\pr 9 dudarev 01.01\pr 9 dudarev 01.01\bin\Debug\net5.0-windows\pr 9 dudarev 01.01.dll
+D:\NOTGames\Работы\c#\vano\pr 9 dudarev 01.01\pr 9 dudarev 01.01\bin\Debug\net5.0-windows\ref\pr 9 dudarev 01.01.dll
+D:\NOTGames\Работы\c#\vano\pr 9 dudarev 01.01\pr 9 dudarev 01.01\bin\Debug\net5.0-windows\pr 9 dudarev 01.01.pdb
+D:\NOTGames\Работы\c#\vano\pr 9 dudarev 01.01\pr 9 dudarev 01.01\obj\Debug\net5.0-windows\pr 9 dudarev 01.01.csprojAssemblyReference.cache
+D:\NOTGames\Работы\c#\vano\pr 9 dudarev 01.01\pr 9 dudarev 01.01\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\NOTGames\Работы\c#\vano\pr 9 dudarev 01.01\pr 9 dudarev 01.01\obj\Debug\net5.0-windows\App.g.cs
+D:\NOTGames\Работы\c#\vano\pr 9 dudarev 01.01\pr 9 dudarev 01.01\obj\Debug\net5.0-windows\pr 9 dudarev 01.01_MarkupCompile.cache
+D:\NOTGames\Работы\c#\vano\pr 9 dudarev 01.01\pr 9 dudarev 01.01\obj\Debug\net5.0-windows\pr 9 dudarev 01.01_MarkupCompile.lref
+D:\NOTGames\Работы\c#\vano\pr 9 dudarev 01.01\pr 9 dudarev 01.01\obj\Debug\net5.0-windows\MainWindow.baml
+D:\NOTGames\Работы\c#\vano\pr 9 dudarev 01.01\pr 9 dudarev 01.01\obj\Debug\net5.0-windows\pr 9 dudarev 01.01.g.resources
+D:\NOTGames\Работы\c#\vano\pr 9 dudarev 01.01\pr 9 dudarev 01.01\obj\Debug\net5.0-windows\pr 9 dudarev 01.01.GeneratedMSBuildEditorConfig.editorconfig
+D:\NOTGames\Работы\c#\vano\pr 9 dudarev 01.01\pr 9 dudarev 01.01\obj\Debug\net5.0-windows\pr 9 dudarev 01.01.AssemblyInfoInputs.cache
+D:\NOTGames\Работы\c#\vano\pr 9 dudarev 01.01\pr 9 dudarev 01.01\obj\Debug\net5.0-windows\pr 9 dudarev 01.01.AssemblyInfo.cs
+D:\NOTGames\Работы\c#\vano\pr 9 dudarev 01.01\pr 9 dudarev 01.01\obj\Debug\net5.0-windows\pr 9 dudarev 01.01.csproj.CoreCompileInputs.cache
+D:\NOTGames\Работы\c#\vano\pr 9 dudarev 01.01\pr 9 dudarev 01.01\obj\Debug\net5.0-windows\pr 9 dudarev 01.01.dll
+D:\NOTGames\Работы\c#\vano\pr 9 dudarev 01.01\pr 9 dudarev 01.01\obj\Debug\net5.0-windows\ref\pr 9 dudarev 01.01.dll
+D:\NOTGames\Работы\c#\vano\pr 9 dudarev 01.01\pr 9 dudarev 01.01\obj\Debug\net5.0-windows\pr 9 dudarev 01.01.pdb
+D:\NOTGames\Работы\c#\vano\pr 9 dudarev 01.01\pr 9 dudarev 01.01\obj\Debug\net5.0-windows\pr 9 dudarev 01.01.genruntimeconfig.cache
+C:\Users\ИСП-34\Desktop\pr 9 dudarev 01.01\pr 9 dudarev 01.01\bin\Debug\net5.0-windows\pr 9 dudarev 01.01.exe
+C:\Users\ИСП-34\Desktop\pr 9 dudarev 01.01\pr 9 dudarev 01.01\bin\Debug\net5.0-windows\pr 9 dudarev 01.01.deps.json
+C:\Users\ИСП-34\Desktop\pr 9 dudarev 01.01\pr 9 dudarev 01.01\bin\Debug\net5.0-windows\pr 9 dudarev 01.01.runtimeconfig.json
+C:\Users\ИСП-34\Desktop\pr 9 dudarev 01.01\pr 9 dudarev 01.01\bin\Debug\net5.0-windows\pr 9 dudarev 01.01.runtimeconfig.dev.json
+C:\Users\ИСП-34\Desktop\pr 9 dudarev 01.01\pr 9 dudarev 01.01\bin\Debug\net5.0-windows\pr 9 dudarev 01.01.dll
+C:\Users\ИСП-34\Desktop\pr 9 dudarev 01.01\pr 9 dudarev 01.01\bin\Debug\net5.0-windows\ref\pr 9 dudarev 01.01.dll
+C:\Users\ИСП-34\Desktop\pr 9 dudarev 01.01\pr 9 dudarev 01.01\bin\Debug\net5.0-windows\pr 9 dudarev 01.01.pdb
+C:\Users\ИСП-34\Desktop\pr 9 dudarev 01.01\pr 9 dudarev 01.01\obj\Debug\net5.0-windows\pr 9 dudarev 01.01.csproj.AssemblyReference.cache
+C:\Users\ИСП-34\Desktop\pr 9 dudarev 01.01\pr 9 dudarev 01.01\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\ИСП-34\Desktop\pr 9 dudarev 01.01\pr 9 dudarev 01.01\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\ИСП-34\Desktop\pr 9 dudarev 01.01\pr 9 dudarev 01.01\obj\Debug\net5.0-windows\pr 9 dudarev 01.01_MarkupCompile.cache
+C:\Users\ИСП-34\Desktop\pr 9 dudarev 01.01\pr 9 dudarev 01.01\obj\Debug\net5.0-windows\pr 9 dudarev 01.01_MarkupCompile.lref
+C:\Users\ИСП-34\Desktop\pr 9 dudarev 01.01\pr 9 dudarev 01.01\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\ИСП-34\Desktop\pr 9 dudarev 01.01\pr 9 dudarev 01.01\obj\Debug\net5.0-windows\pr 9 dudarev 01.01.g.resources
+C:\Users\ИСП-34\Desktop\pr 9 dudarev 01.01\pr 9 dudarev 01.01\obj\Debug\net5.0-windows\pr 9 dudarev 01.01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ИСП-34\Desktop\pr 9 dudarev 01.01\pr 9 dudarev 01.01\obj\Debug\net5.0-windows\pr 9 dudarev 01.01.AssemblyInfoInputs.cache
+C:\Users\ИСП-34\Desktop\pr 9 dudarev 01.01\pr 9 dudarev 01.01\obj\Debug\net5.0-windows\pr 9 dudarev 01.01.AssemblyInfo.cs
+C:\Users\ИСП-34\Desktop\pr 9 dudarev 01.01\pr 9 dudarev 01.01\obj\Debug\net5.0-windows\pr 9 dudarev 01.01.csproj.CoreCompileInputs.cache
+C:\Users\ИСП-34\Desktop\pr 9 dudarev 01.01\pr 9 dudarev 01.01\obj\Debug\net5.0-windows\pr 9 dudarev 01.01.dll
+C:\Users\ИСП-34\Desktop\pr 9 dudarev 01.01\pr 9 dudarev 01.01\obj\Debug\net5.0-windows\ref\pr 9 dudarev 01.01.dll
+C:\Users\ИСП-34\Desktop\pr 9 dudarev 01.01\pr 9 dudarev 01.01\obj\Debug\net5.0-windows\pr 9 dudarev 01.01.pdb
+C:\Users\ИСП-34\Desktop\pr 9 dudarev 01.01\pr 9 dudarev 01.01\obj\Debug\net5.0-windows\pr 9 dudarev 01.01.genruntimeconfig.cache
